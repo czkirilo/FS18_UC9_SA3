@@ -55,6 +55,24 @@
       "titulo": "BBB agora é Battle Royale",
       "descricao": "Hoje foi anunciado pela Globo que só ganha quem sair vivo",
       "id": 8
+    },
+    {
+      "imagem": "assets/img/f1-logo.png",
+      "titulo": "Alunos do SENAI aprendem a hackear a NASA",
+      "descricao": "ontem por volta das 14 horas da tarde uma aluna do SENAI foi pega tentando extrair informações da NASA sobre ALIENS",
+      "id": 9
+    },
+    {
+      "imagem": "assets/img/cs-logo.png",
+      "titulo": "Alunos do SENAI aprendem a hackear a NASA",
+      "descricao": "ontem por volta das 14 horas da tarde uma aluna do SENAI foi pega tentando extrair informações da NASA sobre ALIENS",
+      "id": 10
+    },
+    {
+      "imagem": "assets/img/valorant.png",
+      "titulo": "Alunos do SENAI aprendem a hackear a NASA",
+      "descricao": "ontem por volta das 14 horas da tarde uma aluna do SENAI foi pega tentando extrair informações da NASA sobre ALIENS",
+      "id": 11
     }
   ]
 }
